@@ -1,7 +1,7 @@
-## YouTube video downloader:
+# YouTube video downloader:
   Simple program using the yt_dlp librery and ffmpeg to make it into an MP4 file.
 
-# IT can download:
+## IT can download:
 - YouTube videos.
 - Twitch VODs and live streams.
 - Instagram reels.
