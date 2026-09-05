@@ -6,7 +6,9 @@
 - Twitch VODs and live streams.
 - Instagram reels.
 - And a lot more I didn't test.
+
 It downloads videos into your downloads folder.
+
 
 
 https://github.com/user-attachments/assets/a61799b0-a368-4ba7-aecb-69688fa5a058
